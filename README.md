@@ -61,5 +61,5 @@ I'm happy to dive into technical details, architecture decisions, or implementat
 ---
 
 <div align="center">
-  <strong>Built with ❤️ for modern Instagram marketing</strong>
+  <strong>Built for modern Instagram marketing</strong>
 </div>
