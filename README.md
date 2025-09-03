@@ -1,13 +1,10 @@
 # 🚀 DMify - AI-Powered Instagram DM Automation Platform
 
 <div align="center">
-  <img src="frontend/public/dmifylogo.png" alt="DMify Logo" width="200"/>
+  <img src="dmifylogo.png" alt="DMify Logo" width="200"/>
   
   **The #1 Instagram Outreach Tool That Actually Converts**
-  
-  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-dmify.app-blue?style=for-the-badge)](https://dmify.app)
-  [![Status](https://img.shields.io/badge/Status-Production-green?style=for-the-badge)](https://dmify.app)
-</div>
+
 
 ---
 
