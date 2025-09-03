@@ -11,7 +11,7 @@
 
 DMify revolutionizes Instagram outreach by combining AI-powered message generation with automated sending. Unlike other tools that only generate messages, DMify handles the entire process from creation to delivery. 
 
-Since this is a live SaaS with real customers, I'm not at liberty to disclose the code. Please read this document to gain a deeper understanding of the architecture
+Since this is a live SaaS with real customers, I'm not at liberty to disclose the code. Please read this document to gain a deeper understanding of the architecture, but please feel free to reach out at shashi.shekhar.s.verma@vanderbilt.edu for any questions or suggestions!
 
 ## ⚡ Key Features
 
