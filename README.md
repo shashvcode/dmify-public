@@ -2,16 +2,14 @@
   
   **The only platform that generates AND sends personalized Instagram DMs automatically**
   
-  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-dmify.app-blue?style=for-the-badge)](https://dmify.app)
+  [![Check it Out](https://img.shields.io/badge/🌐_Live_Demo-dmify.app-blue?style=for-the-badge)](https://dmify.app)
 </div>
 
 ---
 
 ## What is DMify?
 
-DMify revolutionizes Instagram outreach by combining AI-powered message generation with automated sending. Unlike other tools that only generate messages, DMify handles the entire process from creation to delivery. 
-
-Since this is a live SaaS with real customers, I'm not at liberty to disclose the code. Please read this document to gain a deeper understanding of the architecture, but please feel free to reach out at shashi.shekhar.s.verma@vanderbilt.edu for any questions or suggestions!
+DMify revolutionizes Instagram outreach by combining AI-powered message generation with automated sending. Unlike other tools that only generate messages, DMify handles the entire process from creation to delivery.
 
 ## ⚡ Key Features
 
@@ -63,5 +61,5 @@ I'm happy to dive into technical details, architecture decisions, or implementat
 ---
 
 <div align="center">
-  <strong>Built for modern Instagram marketing</strong>
+  <strong>Built with ❤️ for modern Instagram marketing</strong>
 </div>
