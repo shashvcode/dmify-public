@@ -18,12 +18,13 @@ DMify revolutionizes Instagram outreach by combining AI-powered message generati
 - **🎯 Bulk Automation** - Process hundreds of usernames with project management
 - **💳 Flexible Billing** - Credit-based system with Stripe integration
 - **🔐 Enterprise Security** - JWT authentication, encryption, and compliance
+- **⚡ High Performance** - Redis caching and database connection pooling for optimal speed
 
 ## 🏗️ Tech Stack
 
 **Frontend**: React 18 + TypeScript + Tailwind CSS + Vite  
-**Backend**: FastAPI + MongoDB + OpenAI + Apify  
-**Infrastructure**: Render.com + MongoDB Atlas + Stripe
+**Backend**: FastAPI + MongoDB + OpenAI + Apify + Redis  
+**Infrastructure**: Render.com + MongoDB Atlas + Redis Cloud + Stripe
 
 ## 🚀 How It Works
 
@@ -40,8 +41,9 @@ Instagram Username → Profile Scraping → AI Analysis → Personalized DM → 
 │   └── contexts/     # State management
 ├── backend/          # FastAPI server
 │   ├── routes/       # API endpoints
-│   ├── database.py   # MongoDB connection
-│   └── scraper_algos.py # Core AI logic
+│   ├── database.py   # MongoDB connection with pooling
+│   ├── scraper_algos.py # Core AI logic
+│   └── cache/        # Redis caching layer
 └── admin/           # Admin dashboard
 ```
 
